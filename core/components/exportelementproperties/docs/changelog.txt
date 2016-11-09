@@ -1,5 +1,10 @@
 Changelog for exportElementProperties
 
+exportElementProperties 1.0.1-beta1 (Nov 9 2016)
+--------------------------------
+Fixed hideous packaging error that crept in by magic to misplace my plugin file grrrhh !!!
+
+
 exportElementProperties 1.0.0-beta1
 ---------------------------------
 Initial Version
